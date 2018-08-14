@@ -16,7 +16,8 @@ public class MiniInventario {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Codigo modificado de prueba :v--cambiando por Cuenta2");
+        System.out.println("Codigo modificado de prueba :v--cambiando por Cuenta2"
+                + "--Modificacion desde Netbeans de Colaborador2");
     }
     
 }
